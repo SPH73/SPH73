@@ -1,0 +1,3 @@
+# The local identity denylist: real names, checked locally, never published,
+# hashed or otherwise. The tracked hashes carry the fictional example only.
+tools/identity-denylist-private.txt
