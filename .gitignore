@@ -1,0 +1,7 @@
+# The local identity denylist: real names, checked locally, never published,
+# hashed or otherwise. The tracked hashes carry the fictional example only.
+tools/identity-denylist-private.txt
+
+# Local agent context, local only (Pix LOCKED 2026-10-04: public CV-evidence repos carry
+# their Publicity declaration in a gitignored CLAUDE.md). Must never enter this public history.
+CLAUDE.md
