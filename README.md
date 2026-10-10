@@ -4,9 +4,9 @@ Agentic AI Engineer. I build agent harnesses: the guardrails, verification, supe
 
 **[pix-harness](https://github.com/SPH73/pix-harness)** is the open part. It carries the identity guard today: a hashed denylist, four callers sharing the one list so they cannot drift, and a test that checks the guard itself rather than the code around it. A cost-and-usage account across the scheduled agents that run it is published; a skill-trigger eval suite is building, due 16 October 2026.
 
-**[dev-tools](https://github.com/SPH73/dev-tools)** is a set of small, zero-dependency CLI tools for documentation and text pipelines.
+**[absoluteSport-ssr-webapp](https://github.com/SPH73/absoluteSport-ssr-webapp)** is the Nuxt 4 web application I built and maintain in production for a UK company.
 
-**[absoluteSport-ssr-webapp](https://github.com/SPH73/absoluteSport-ssr-webapp)** is a Nuxt 4 application in production for a real client.
+**[dev-tools](https://github.com/SPH73/dev-tools)** is a set of small, zero-dependency CLI tools for documentation and text pipelines.
 
 Python and TypeScript. Hosting on Vercel, Netlify, Supabase and cPanel.
 
