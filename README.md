@@ -2,7 +2,7 @@
 
 Agentic AI Engineer. I build agent harnesses: the guardrails, verification, supervision and context layers that decide whether an agent can be trusted to run unattended. Most of that work runs on my own systems. What is public sits here.
 
-**[pix-harness](https://github.com/SPH73/pix-harness)** is the open part. It carries the identity guard today: a hashed denylist, four callers sharing the one list so they cannot drift, and a test that checks the guard itself rather than the code around it. A cost-and-usage account across the scheduled agents that run it is published; a skill-trigger eval suite is building, due 16 October 2026.
+**[pix-harness](https://github.com/SPH73/pix-harness)** is the open part. It carries the identity guard today: a hashed denylist, four callers sharing the one list so they cannot drift, and a test that checks the guard itself rather than the code around it. A cost-and-usage account across the scheduled agents that run it is published, and so is a skill-trigger eval suite with a held-out result.
 
 **[absoluteSport-ssr-webapp](https://github.com/SPH73/absoluteSport-ssr-webapp)** is the Nuxt 4 web application I built and maintain in production for a UK company.
 
